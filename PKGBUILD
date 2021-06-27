@@ -9,8 +9,7 @@
 # Contributor: Roman Pearah
 
 # Set to 0 if you don't want to install
-# files and dependencies needed for the GUI
-_GUI=1
+# files and dependencies needed for the GUI_GUI=1
 
 pkgname=netextender
 pkgver=10.2.824
